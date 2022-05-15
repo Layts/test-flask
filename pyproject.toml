@@ -1,12 +1,11 @@
 [tool.poetry]
-name = "flask-base"
+name = "test-flask"
 version = "0.1.0"
 description = ""
 authors = ["frolov.an <antonlayts@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-pydantic = "^1.9.0"
 Flask = "^2.1.2"
 
 [tool.poetry.dev-dependencies]
